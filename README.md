@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Django**
 
-- 📫 How to reach me **ukasha123@email.com**
+- 📫 How to reach me **ukashahassan66@gmail.com**
 
 - ⚡ Fun fact: I love coding while listening to soft instrumental music 🎧
 
@@ -50,6 +50,6 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" /></a>
-  <a href="mailto:ukasha123@email.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" /></a>
+  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BFL3h3b5mSFW0DdX5wKwErw%3D%3D)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" /></a>
+  <a href="mailto:ukashahassan66@email.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" /></a>
 </p>
