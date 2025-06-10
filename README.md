@@ -19,8 +19,8 @@
 
 - 🔭 I’m currently working on **React.js and Django-based projects**
 - 🌱 I’m learning **Data Structures, Algorithms, and AI**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Django**
-- 📫 Reach me at: **ukasha123@email.com**
+- 💬 Ask me about **HTML, CSS, JavaScript,Java,Game Console, React, Python, Django**
+- 📫 Reach me at: **ukashahassan66@gmail.com**
 - ⚡ Fun fact: I love solving problems and building cool web apps 🎯
 
 ---
@@ -63,6 +63,6 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="mailto:ukasha123@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ukashahassan66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/your-username](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BFL3h3b5mSFW0DdX5wKwErw%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
