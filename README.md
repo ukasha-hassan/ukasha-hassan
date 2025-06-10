@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Web Projects**
 
-- 📝 I regularly write articles on [My Blog (optional)](https://yourblog.com)
+- 📝 I regularly write articles on My Blog 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Django**
 
